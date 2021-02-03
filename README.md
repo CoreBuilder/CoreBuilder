@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt="dotnet" width="202" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="118" height="58"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="238" height="58"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="220" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="120" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="debian" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="118" height="58"/> 
@@ -28,6 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="htm5" width="118" height="58"/> 
   <img src="https://seeklogo.com/images/P/pluralsight-logo-7DC0EE5EB7-seeklogo.com.png" alt="pluralsight" width="200" height="48"/> 
 </p>
+
 
   ---
   
