@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/CoreBuilder/CoreBuilder/blob/main/img/hi.gif" width="40px"/> I'm Şevket Evli, fancy seeing you here 🤗</h1>
 
-### 🤵 About Me: 
+### 🤵 About Me: <img width="150" align='right' src="https://github.com/CoreBuilder/CoreBuilder/blob/main/img/me.png?raw=true">
 
 - :hammer: I’m a Senior Software Developer, currently based in Antalya, can be relocated to Istanbul and Izmir
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I am working as a software developer for 10 years 
@@ -41,20 +41,3 @@
   <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
-
-<!--
-Github Emojis
-:point_right:
-:computer:
-:pushpin:
-:pencil2:
-:link:
-
-Badges
-[![JS](https://github.com/CoreBuilder/CoreBuilder/blob/main/badges/svg/dev/js.svg)]()
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
--->
