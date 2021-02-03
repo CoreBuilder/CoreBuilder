@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt="dotnet" width="202" height="58"/> 
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt="dotnet" width="200" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="220" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="120" height="58"/> 
