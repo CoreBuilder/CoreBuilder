@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg" alt="font-awesome" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="htm5" width="118" height="58"/> 
-  <img src="https://seeklogo.com/images/P/pluralsight-logo-7DC0EE5EB7-seeklogo.com.png" alt="pluralsight" width="190" height="48"/> 
+  <img src="https://seeklogo.com/images/P/pluralsight-logo-7DC0EE5EB7-seeklogo.com.png" alt="pluralsight" width="200" height="48"/> 
 </p>
 
   ---
