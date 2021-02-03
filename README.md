@@ -23,7 +23,6 @@
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npmjs" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" width="118" height="58"/> 
-  <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg" alt="font-awesome" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="118" height="58"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="htm5" width="118" height="58"/> 
   <img src="https://seeklogo.com/images/P/pluralsight-logo-7DC0EE5EB7-seeklogo.com.png" alt="pluralsight" width="200" height="48"/> 
