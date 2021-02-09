@@ -2,7 +2,7 @@
 
 ### 🤵 About Me: <img width="150" align='right' src="https://github.com/CoreBuilder/CoreBuilder/blob/main/img/me.png?raw=true">
 
-- :hammer: I’m a Senior Software Developer, currently based in Antalya, can be relocated to Istanbul and Izmir
+- :hammer: I’m a Senior Software Developer, currently based in Antalya, can be relocated to Istanbul or Izmir
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I am working as a software developer for over 12 years 
 - 🌱 I'm currently learning and experimenting with gRPC
 - 💻 Skilled in software architecture, .net framework, react and sql
