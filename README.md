@@ -3,14 +3,13 @@
 ### 🤵 About Me: <img width="150" align='right' src="https://github.com/CoreBuilder/CoreBuilder/blob/main/img/me.png?raw=true">
 
 - :hammer: I’m a Senior Software Developer, currently based in Antalya, can be relocated to Istanbul or Izmir
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I am working as a software developer for over 12 years 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I'm working as a software developer for more than 12 years 
 - 🌱 I'm currently learning and experimenting with gRPC
 - 💻 Skilled in software architecture, .net framework, react and sql
-- ⚡ Fun fact: I love to attend Meetups for learning & tracking new tech courses on Pluralsight 
+- ⚡ Fun fact: I love to attend meetups for learning & tracking new courses on Pluralsight
 - 😄 Pronouns: he/him
 
 ---
-
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt="dotnet" width="200" height="58"/> 
